@@ -27,7 +27,7 @@
             "name": "Python: MCP API",
             "type": "python",
             "request": "launch",
-            "python": "${workspaceFolder}/src/venv/Scripts/python.exe",
+            "python": "${workspaceFolder}/src/.venv/Scripts/python.exe",
             "module": "uvicorn",
             "cwd" : "${workspaceFolder}/src",
             
